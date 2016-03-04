@@ -1,0 +1,21 @@
+.cell {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.empty {
+  background-color: yellow;
+}
+
+.X {
+  background-color: red;
+}
+
+.O {
+  background-color: green;
+}
+
+.gameButton {
+  margin: 5px;
+}
